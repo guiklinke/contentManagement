@@ -12,8 +12,9 @@ The project aims to develop a basic backend API for a content-sharing platform. 
 - JSON Web Tokens (JWT)
 - OpenAPI
 ## Running the app
-1. Clone the repository: `git clone `
-2. Import Project into IDE:
+1. Clone the repository: `git clone https://github.com/guiklinke/contentManagement.git`
+2. Download and install Java 17: https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+3. Import Project into IDE:
 - Open your IDE (e.g., IntelliJ IDEA).
 - Import the project by selecting the root directory of the cloned repository.
 3. Set Up PostgreSQL Database:
